@@ -78,11 +78,11 @@ Y= A⊕B
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 
 ## Program:
-/*
+
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Sabari Akash A
 RegisterNumber:  212222230124
-*/
+
 ```
 module gates(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor);
 input a,b;
