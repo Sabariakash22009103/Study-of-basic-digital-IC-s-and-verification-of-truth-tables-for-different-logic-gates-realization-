@@ -1,4 +1,4 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# Study of basic digital IC s and verification of truth tables for different logic gates realization
  ## AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -97,13 +97,13 @@ xnor(yxnor,a,b);
 endmodule
 ```
 RTL realization
-#### RTL diagram:
+### RTL diagram:
 ![Screenshot 2023-08-18 083709](https://github.com/Sabariakash22009103/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390227/4970a58d-d42b-4323-890f-d0e620a4a083)
-#### Truthtable:
+### Truthtable:
 ![Screenshot 2023-08-18 092021](https://github.com/Sabariakash22009103/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390227/358ab6f9-b02d-4e65-af11-79ce0d950004)
 
-#### Output waveform:
+### Output waveform:
 ![Screenshot 2023-08-18 085924](https://github.com/Sabariakash22009103/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119390227/03bf0cb8-ffa3-425e-99c8-216f195a8e11)
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
